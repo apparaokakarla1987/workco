@@ -1,0 +1,414 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+/* NavBar and Banner Section CSS (4  to 62) */
+
+.custom-image {
+    height: 87vh;
+    width: 100%;
+}
+
+.Ecommerce-banner-bg-container {
+    width: 100%;
+    height: 87vh;
+    background-size: cover;
+}
+
+#nav-link-5 {
+    color: black;
+    Font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#nav-link-4 {
+    color: black;
+    Font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#nav-link-3 {
+    color: black;
+    Font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#nav-link-2 {
+    color: black;
+    Font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#nav-link-1 {
+    color: black;
+    Font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.custom-toggle {
+    color: blue;
+    border-color: yellow;
+    font-size: 25px;
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+.custom-logo {
+    height: 60px;
+    width: 100px;
+}
+
+/* Service Section CSS (66  to 110 ) */
+
+.Card-Paragraph {
+    color: #616c7c;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 300;
+    text-align: left;
+    padding: 2px;
+}
+
+.Card-heading {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.custom-card-image {
+    height: 100px;
+    width: 100px;
+}
+
+.card-bg-conatiner {
+    background-color: white;
+    Height: 100%;
+    Background-size: cover;
+}
+
+.Paragraph {
+    color: #616c7c;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.Main-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.Ecommerce-Service-sec-Bg-Container {
+    background-color: white;
+    Height: 100%;
+    Background-size: cover;
+}
+
+/* Product Section CSS (115  to ) */
+.see-all-offer-heading {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.Top-card-bg-container2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    height: 40vh;
+    width: 100%;
+    Background-size: cover;
+    border-radius: 10px;
+}
+
+.custom-modal-footer-btn {
+    background-color: white;
+    Border-width: 1px;
+    border-style: solid;
+    border-color: #183b56;
+    color: #183b56;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+
+.span-styling {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.modal-boday-paragraph {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.smart-head-phone-titel {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.custom-button {
+    width: 150px;
+    height: 50px;
+    color: #ff9f00;
+    border-radius: 20px;
+    background-color: white;
+    border-width: 1px;
+    Font-size: 20px;
+    font-weight: bold;
+    border-color: #ff9f00;
+}
+
+.Card-Paragraph {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.Card-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.Top-card-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    height: 40vh;
+    width: 100%;
+    Background-size: cover;
+    border-radius: 10px;
+}
+
+.Main-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.Ecommerce-Products-bg-container {
+    margin: 20px;
+    Background-size: cover;
+}
+
+/* offers Section CSS (210  to 232) */
+.offer-desciption {
+    color: white;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.main-heading {
+    color: #ad2167;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.custom-image {
+    height: 100%;
+    width: 70%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.Ecommerce-offer-Bg-Container {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+
+    background-size: cover;
+    margin: 10vw;
+    border-radius: 10px;
+}
+
+/* Trending Section CSS (232 to ) */
+.card-read-more {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.card-paragraph {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.card-heading2 {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card-heading1 {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.card-image {
+    height: 60%;
+    width: 100%;
+    Border-radius: 10px;
+}
+
+.main-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.Ecommerce-Trending-Blog-bg-container {
+    background-color: white;
+    height: 100%;
+    background-size: cover;
+    border-color: white;
+    border-radius: 2px;
+}
+
+/* Expolre Section CSS 282  to  330) */
+.See-all-details {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.card-title {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.card-image {
+    height: 90%;
+    width: 90%;
+    border-radius: 30px;
+}
+
+.Card-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.Card-bg-conatiner {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    Background-size: cover;
+}
+
+.main-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.Ecommerce-Explore-Sec-Bg-Container {
+    background-color: #f5f7fa;
+    height: 100%;
+    Background-size: cover;
+}
+
+/* Contact Us  Section CSS 331 to 361 ) */
+.Box-color {
+    color: #ff9f00;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.Box {
+    border-color: #ff9f00;
+    border-width: 2px;
+    border-style: solid;
+    height: 50%;
+    width: 150px;
+    border-radius: 10px;
+
+}
+
+.main-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.Ecommerce-contact-bg-container {
+    background-color: #f5f7fa;
+    height: 100%;
+    background-size: cover;
+}
+
+/* Footer  Section CSS 361 to  ) */
+.paragraph1 {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: overline;
+
+}
+
+.paragraph {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.text-heading {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.icon-circle {
+    border-radius: 40px;
+    width: 50px;
+    height: 50px;
+    background-color: #202b36;
+    margin: 5px;
+}
+
+.icon {
+    font-size: 20px;
+    color: #959ead;
+    Margin-top: 10px;
+}
+
+.VR-logo {
+    width: 50%;
+}
+
+.VR-Footer-Sec-Bg-Container {
+    background-color: #19232d;
+    Height: 100%;
+    background-size: cover;
+}
